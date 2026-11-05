@@ -7,7 +7,7 @@ B.Tech Computer Science Student.
 C, Python, Java, JavaScript, React, SQL.
 
 ## Projects
-One or two lines about a project you've built or plan to build.
+This is a course, Portfolio Building. Where we work on projects and build them by team building. And solve leetcode questions.
 
 # Shreya K
 
